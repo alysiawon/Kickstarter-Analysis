@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-An anlysis of how different theater campaigns fared in relation to their launch dates and funding goals. 
+An analysis of how different theater campaigns fared in relation to their launch dates and funding goals. 
 
 ## Analysis and Challenges
 
