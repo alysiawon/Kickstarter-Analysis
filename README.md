@@ -11,13 +11,13 @@ An analysis of how different theater campaigns fared in relation to their launch
 
 By utilizing the Pivot Table and graphing functions, I was able to visualize campaign outcomes (successful, failed, and canceled) based on launch dates. 
 
-<img src="Resources/Theater_Outcomes_vs_Launch.png" width="100">
+<img src="Resources/Theater_Outcomes_vs_Launch.png" width="300">
 
 ### Analysis of Outcomes Based on Goals
 
 With Excel functions, I created a table and graph to showcase the number and percentage of campaign outcomes based on goal dollar amount ranges. 
 
-<img src="Resources/Outcomes_vs_Goals.png" width="100">
+<img src="Resources/Outcomes_vs_Goals.png" width="300">
 
 ### Challenges and Difficulties Encountered
 
