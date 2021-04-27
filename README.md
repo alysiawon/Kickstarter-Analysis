@@ -1,5 +1,4 @@
 # kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
 
 ## Overview of Project
 
@@ -10,7 +9,11 @@ An anlysis of how different theater campaigns fared in relation to their launch 
 
 ### Analysis of Outcomes Based on Launch Date
 
+By utilizing the Pivot Table and graphing functions, I was able to visualize campaign outcomes (successful, failed, and canceled) based on launch dates. 
+
 ### Analysis of Outcomes Based on Goals
+
+With Excel functions, I created a table and graph to showcase the number and percentage of campaign outcomes based on goal dollar amount ranges. 
 
 ### Challenges and Difficulties Encountered
 
