@@ -11,15 +11,19 @@ An analysis of how different theater campaigns fared in relation to their launch
 
 By utilizing the Pivot Table and graphing functions, I was able to visualize campaign outcomes (successful, failed, and canceled) based on launch dates. 
 
-<img src="Resources/Theater_Outcomes_vs_Launch.png" width="300">
+<img src="Resources/Theater_Outcomes_vs_Launch.png" width="500">
 
 ### Analysis of Outcomes Based on Goals
 
 With Excel functions, I created a table and graph to showcase the number and percentage of campaign outcomes based on goal dollar amount ranges. 
 
-<img src="Resources/Outcomes_vs_Goals.png" width="300">
+<img src="Resources/Outcomes_vs_Goals.png" width="500">
 
 ### Challenges and Difficulties Encountered
+
+During this module was the first time I ever worked with GitHub and .md files. I never knew how to create a repository, upload files, as well as working with GitHub Desktop to clone and manage remote and local files. In addition, I have only used plain-text documents to read files, but have never created the file and formatted it. 
+
+With the help of the classes, modules and online resources like YouTube and GitHub Docs, I was able to learn how to work off of GitHub Desktop and complete my report with images and format it.
 
 ## Results
 
@@ -29,7 +33,6 @@ With Excel functions, I created a table and graph to showcase the number and per
 
 - What can you conclude about the Outcomes based on Goals?
 	1. The goals that less that $15,000 are most likely to be successful. After the $15,000 mark, the likelihood of failed kickstarters for plays increased. 
-	2. There are no cancelled kickstarters for plays. 
 
 - What are some limitations of this dataset?
 
