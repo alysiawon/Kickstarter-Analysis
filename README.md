@@ -48,18 +48,14 @@ The dataset can also have bias, including under-represented populations, misinte
 With this dataset, here are 2 examples of tables and/or graphs that we could create: 
 1. Average time frame of campaigns based on outcomes
 
-	With this table or graph, we could see if there is a correlation of how long a campaign was live and its correlation to its success rate. 
+	Do certain time frames lead to more success or failures? With this table or graph, we could see if there is a correlation of how long a campaign was live and its correlation to its success rate. 
 
-	Do certain time frames lead to more success or failures?
-	
-	With our dataset, we could filter it even more to see if this differs based on locations, parent categories or sub-categories. 
+	We could filter it even more to see if this differs based on locations, parent categories or sub-categories. 
 
 2. Average donations of campaigns based on location or parent category
 
-	With this table or graph, we could determine if certain locations or parent categories have a higher or lower average donation amount.
+	Do locations or parent categories impact the average donation amount? With this table or graph, we could determine if certain locations or parent categories have a higher or lower average donation amount.
 
-	Do locations or parent categories impact the average donation amount?
-
-	With our dataset, we can even look further to see if an average donation amount per location or parent category correlated to a certain outcome. 
+	We could also determine if an average donation amount per location or parent category is correlated to a certain outcome. 
 
 
