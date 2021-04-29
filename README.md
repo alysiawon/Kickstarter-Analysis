@@ -40,19 +40,19 @@ With the help of the classes, modules and online resources like YouTube and GitH
 	The dataset can also have bias, including under-represented populations, misinterpretation of the data, and cognitive bias just to name a few. 
 
 **- What are some other possible tables and/or graphs that we could create?**
-	With this dataset, here are 2 examples of tables and/or graphs that we could create: 
-	1. Average time frame of campaigns based on outcomes
-		With this table or graph, we could see if there is a correlation of how long a campaign was live and its correlation to its success rate. 
+With this dataset, here are 2 examples of tables and/or graphs that we could create: 
+1. Average time frame of campaigns based on outcomes
+	With this table or graph, we could see if there is a correlation of how long a campaign was live and its correlation to its success rate. 
 
-		Do certain time frames lead to more success or failures?
+	Do certain time frames lead to more success or failures?
 	
-		With our dataset, we could filter it even more to see if this differs based on locations, parent categories or sub-categories. 
+	With our dataset, we could filter it even more to see if this differs based on locations, parent categories or sub-categories. 
 
-	2. Average donations of campaigns based on location or parent category
-		With this table or graph, we could determine if certain locations or parent categories have a higher or lower average donation amount.
+2. Average donations of campaigns based on location or parent category
+	With this table or graph, we could determine if certain locations or parent categories have a higher or lower average donation amount.
 
-		Do locations or parent categories impact the average donation amount?
+	Do locations or parent categories impact the average donation amount?
 
-		With our dataset, we can even look further to see if an average donation amount per location or parent category correlated to a certain outcome. 
+	With our dataset, we can even look further to see if an average donation amount per location or parent category correlated to a certain outcome. 
 
 
