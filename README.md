@@ -27,32 +27,32 @@ With the help of the classes, modules and online resources like YouTube and GitH
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+###- What are two conclusions you can draw about the Outcomes based on Launch Date?
 	1. Overall, there are more successful plays than those that have failed or been canceled. Of the 1369 total plays, 839 of the plays were successful. Therefore, if you have a kickstarter for a theatre project, you will have a 61% chance of success. 
 	2. The most successful months are May and June, where 65-67% of the kickstarters were successful. Whereas the least successful month is December, where 51% of the kickstarters failed or were canceled. As a result, if you want the most success, it would be best to have a kickstarter in May or June. 
 
-- What can you conclude about the Outcomes based on Goals?
+###- What can you conclude about the Outcomes based on Goals?
 	1. The goals that less that $15,000 are most likely to be successful. After the $15,000 mark, the likelihood of failed kickstarters for plays increased. 
 
-- What are some limitations of this dataset?
+###- What are some limitations of this dataset?
 	This dataset does not specify how the data was collected. As a result, the data collected from different sources can vary in quality and format. 
 
 	The dataset can also have bias, including under-represented populations, misinterpretation of the data, and cognitive bias just to name a few. 
 
-- What are some other possible tables and/or graphs that we could create?
+###- What are some other possible tables and/or graphs that we could create?
 	With this dataset, here are 2 examples of tables and/or graphs that we could create: 
 	1. Average time frame of campaigns based on outcomes
-	With this table or graph, we could see if there is a correlation of how long a campaign was live and its correlation to its success rate. 
+		With this table or graph, we could see if there is a correlation of how long a campaign was live and its correlation to its success rate. 
 
-	Do certain time frames lead to more success or failures?
+		Do certain time frames lead to more success or failures?
 	
-	With our dataset, we could filter it even more to see if this differs based on locations, parent categories or sub-categories. 
+		With our dataset, we could filter it even more to see if this differs based on locations, parent categories or sub-categories. 
 
 	2. Average donations of campaigns based on location or parent category
-	With this table or graph, we could determine if certain locations or parent categories have a higher or lower average donation amount.
+		With this table or graph, we could determine if certain locations or parent categories have a higher or lower average donation amount.
 
-	Do locations or parent categories impact the average donation amount?
+		Do locations or parent categories impact the average donation amount?
 
-	With our dataset, we can even look further to see if an average donation amount per location or parent category correlated to a certain outcome. 
+		With our dataset, we can even look further to see if an average donation amount per location or parent category correlated to a certain outcome. 
 
 
