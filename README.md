@@ -7,7 +7,7 @@ The purpose of this analysis is to determine how different category campaigns fa
 
 ## Analysis and Challenges
 
-Data preparation include sorting, filtering and formating the Kickstarter dataset helped to convert the data into a readable and easy to use format. Insight are generated on the Kickstarter Analysis spreadsheet. [a relative link](blob/main/Kickstarter_Challenge.xlsx)
+Data preparation include sorting, filtering and formating the Kickstarter dataset helped to convert the data into a readable and easy to use format. Insight are generated on the Kickstarter Analysis spreadsheet. [a relative link](file:///C:/Kickstarter_Challenge.xlsx)
 
 ### Analysis of Outcomes Based on Launch Date
 
