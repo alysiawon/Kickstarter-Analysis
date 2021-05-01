@@ -50,13 +50,13 @@ The dataset can also have bias, including under-represented populations, misinte
 **What are some other possible tables and/or graphs that we could create?**
 
 With this dataset, here are 2 examples of tables and/or graphs that we could create: 
-1. Average time frame of campaigns based on outcomes
+*1. Average time frame of campaigns based on outcomes*
 
 	Do certain time frames (longer or shorter kickstarters) lead to more success or failure? With this table and graph, we could see if there is a correlation of how long a campaign was live and its correlation to its success rate. 
 
 	We could filter it even more to see if this differs based on locations, parent categories or sub-categories. 
 
-2. Average donations of campaigns based on location or parent category
+*2. Average donations of campaigns based on location or parent category*
 
 	Do locations and/or parent categories impact the average donation amount? With this table or graph, we could determine if certain locations or parent categories have a higher or lower average donation amount.
 
