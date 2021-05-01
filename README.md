@@ -3,23 +3,21 @@
 ## Overview of Project
 
 ### Purpose
-An analysis of how different category kickstarter results fared in relation to their launch dates and funding goals, specifically theater and play campaigns. 
+The purpose of this analysis is to determine how different category campaigns fared in relation to their launch dates and funding goals. This analysis will provide insight on what different variables lead to succesful and failing kickstarter campaigns. [a relative link]("Kickstarter_Challenge.xlsx")
 
 ## Analysis and Challenges
 
+Data preparation include sorting, filtering and formating the Kickstarter dataset helped to convert the data into a readable and easy to use format. Insight are generated on the Kickstarter Analysis spreadsheet. 
+
 ### Analysis of Outcomes Based on Launch Date
 
-By utilizing the Pivot Table and graphing functions, I was able to visualize campaign outcomes (successful, failed, and canceled) based on launch dates. 
-
-In this specific analysis, we are comparing the monthly outcomes of theater campaigns.
+In the first analysis, we are comparing the monthly launch dates of theatre kickstarter campaigns. By utilizing the Pivot Table and graphing functions, I was able to visualize campaign outcomes (successful, failed, and canceled) based on launch dates. 
 
 <img src="Resources/Theater_Outcomes_vs_Launch.png" width="500">
 
 ### Analysis of Outcomes Based on Goals
 
-With Excel functions, I created a table and graph to showcase the number and percentage of campaign outcomes based on goal dollar amount ranges. 
-
-In this analysis, we are comparing the outcome of play campaigns.
+In the second analysis, we are comaping the outcome of play campaigns based on its goal. With Excel functions, I created a table and graph to showcase the number and percentage of campaign outcomes based on goal dollar amount ranges. 
 
 <img src="Resources/Outcomes_vs_Goals.png" width="500">
 
