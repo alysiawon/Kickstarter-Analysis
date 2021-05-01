@@ -3,11 +3,11 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this analysis is to determine how different category campaigns fared in relation to their launch dates and funding goals. This analysis will provide insight on what different variables lead to succesful and failing kickstarter campaigns. [a relative link]("Kickstarter_Challenge.xlsx")
+The purpose of this analysis is to determine how different category campaigns fared in relation to their launch dates and funding goals. This analysis will provide insight on what different variables lead to succesful and failing kickstarter campaigns. 
 
 ## Analysis and Challenges
 
-Data preparation include sorting, filtering and formating the Kickstarter dataset helped to convert the data into a readable and easy to use format. Insight are generated on the Kickstarter Analysis spreadsheet. 
+Data preparation include sorting, filtering and formating the Kickstarter dataset helped to convert the data into a readable and easy to use format. Insight are generated on the Kickstarter Analysis spreadsheet. [a relative link](blob/main/Kickstarter_Challenge.xlsx)
 
 ### Analysis of Outcomes Based on Launch Date
 
