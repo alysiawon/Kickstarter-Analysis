@@ -57,7 +57,7 @@ With this dataset, here are 2 examples of tables and/or graphs that we could cre
 
 	We could filter it even more to see if this differs based on locations, parent categories or sub-categories. 
 
-2. *Average donations of campaigns based on location or parent category*
+2. *Average donations of campaigns based on location and/or parent category*
 
 	Do locations and/or parent categories impact the average donation amount? With this table or graph, we could determine if certain locations or parent categories have a higher or lower average donation amount.
 
